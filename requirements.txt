@@ -1,0 +1,7 @@
+numpy==2.4.6
+pandas==3.1.0
+chromadb==1.5.9
+sentence-transformers==6.1.0
+rank-bm25==0.2.2
+opentelemetry-sdk==1.45.2
+opentelemetry-exporter-otlp-proto-grpc==1.45.2

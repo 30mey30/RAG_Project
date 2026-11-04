@@ -1,0 +1,14 @@
+.venv/
+.venv-phoenix/
+__pycache__/
+*.pyc
+.idea/
+models/
+chroma_db/
+chroma_db_bge_m3/
+ترش/
+
+.env
+.env.*
+!.env.example
+*.log

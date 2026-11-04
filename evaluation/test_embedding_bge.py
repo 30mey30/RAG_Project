@@ -1,0 +1,7 @@
+import sys
+
+from evaluation.compare_embedding_models import main
+
+
+if __name__ == "__main__":
+    main(["--model", "bge", *sys.argv[1:]])
